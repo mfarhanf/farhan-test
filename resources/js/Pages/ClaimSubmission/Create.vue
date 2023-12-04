@@ -30,7 +30,7 @@ defineProps({
 </script>
 
 <template>
-    <Head title="Profile" />
+    <Head title="Create" />
 
     <AuthenticatedLayout>
         <template #header>

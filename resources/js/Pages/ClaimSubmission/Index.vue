@@ -18,7 +18,7 @@ defineProps({
 </script>
 
 <template>
-    <Head title="Claim Submission" />
+    <Head title="Index" />
 
     <AuthenticatedLayout>
         <template #header>
